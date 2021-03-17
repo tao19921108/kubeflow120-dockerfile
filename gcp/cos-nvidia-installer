@@ -1,0 +1,1 @@
+FROM cos-nvidia-installer:fixed

@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-images-public/kpt-fns:v1.1-rc.0-22-gbb803bc
