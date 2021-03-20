@@ -1,0 +1,1 @@
+FROM aipipeline/metadata-writer:0.4.0
